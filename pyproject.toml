@@ -9,7 +9,7 @@ description = "An exemplar-based tree classifier: prototype clusters with adapti
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "new_char" }]
+authors = [{ name = "cloudlesson95-arch" }]
 keywords = ["machine-learning", "classifier", "interpretable", "prototype", "tree"]
 classifiers = [
     "Development Status :: 3 - Alpha",
