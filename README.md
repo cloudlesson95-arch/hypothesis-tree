@@ -1,5 +1,7 @@
 # hypothesis-tree
 
+[![CI](https://github.com/cloudlesson95-arch/hypothesis-tree/actions/workflows/ci.yml/badge.svg)](https://github.com/cloudlesson95-arch/hypothesis-tree/actions/workflows/ci.yml)
+
 Yes, it's another tree classifier. The industry definitely needed one more.
 
 An **exemplar-based tree classifier** for tabular data, grown by error-driven
@@ -24,7 +26,7 @@ Note, that the basic version will not beat gradient boosting on accuracy (see th
 ## Install
 
 ```
-git clone <this repo>
+git clone https://github.com/cloudlesson95-arch/hypothesis-tree.git
 cd hypothesis-tree
 pip install -e .
 ```

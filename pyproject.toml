@@ -23,6 +23,11 @@ dependencies = [
     "scikit-learn>=1.3",
 ]
 
+[project.urls]
+Repository = "https://github.com/cloudlesson95-arch/hypothesis-tree"
+Issues = "https://github.com/cloudlesson95-arch/hypothesis-tree/issues"
+Documentation = "https://github.com/cloudlesson95-arch/hypothesis-tree/blob/main/docs/how_it_works.md"
+
 [project.optional-dependencies]
 dev = ["pytest>=7"]
 
